@@ -4,6 +4,7 @@ module.exports = {
     title: "fumo-site",
   },
   plugins: [
+    "gatsby-plugin-postcss",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
