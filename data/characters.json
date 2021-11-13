@@ -1,0 +1,941 @@
+[
+  {
+    "id": "Ch-1",
+    "name": "Hakurei Reimu",
+    "original": "博麗 霊夢",
+    "thwiki": "https://en.touhouwiki.net/wiki/Reimu_Hakurei",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "001",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui001_01.jpg",
+        "release_dates": [2008, 2009, 2010, 2011, 2012],
+        "rarity": "Common",
+        "price_range": "$70 - $120",
+        "link": "https://www.gift-gift.jp/nui/nui001.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "029",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui029_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Uncommon",
+        "price_range": "$80 - $120",
+        "link": "https://www.gift-gift.jp/archive/nui/nui029.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "345",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui345_01.jpg",
+        "release_dates": [2015, 2016, 2017, 2018, 2020],
+        "rarity": "Common",
+        "price_range": "$40 - $60",
+        "link": "https://www.gift-gift.jp/nui/nui345.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "122",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui122_01.jpg",
+        "release_dates": [2011],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui122.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "452",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui452_01.jpg",
+        "release_dates": [2016],
+        "rarity": "Rare",
+        "price_range": "$100 - $200+",
+        "link": "https://www.gift-gift.jp/nui/nui452.html"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "745",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui745.jpg",
+        "release_dates": [2020],
+        "rarity": "Common",
+        "price_range": "$20",
+        "link": "https://www.gift-gift.jp/nui/nui745.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "009",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui009_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "rarity": "Super Rare",
+        "price_range": "$500 - $750+",
+        "link": "https://www.gift-gift.jp/archive/nui/nui009.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "739",
+        "img": "https://www.gift-gift.jp/nui/files/images/74192eafba17dba313c25cb6de2376c7e179450c.jpg",
+        "release_dates": [2020],
+        "rarity": "Super Rare",
+        "price_range": "$500",
+        "link": "https://www.gift-gift.jp/nui/nui739.html"
+      }
+    ],
+    "puppets": [
+      {
+        "name": "Puppet",
+        "id": "021",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui021_01.jpg",
+        "release_dates": [2009],
+        "rarity": "Rare",
+        "price_range": "$120+",
+        "link": "https://www.gift-gift.jp/nui/nui021.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-2",
+    "name": "Kirisame Marisa",
+    "original": "霧雨 魔理沙",
+    "thwiki": "https://en.touhouwiki.net/wiki/Marisa_Kirisame",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "002",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui002_01.jpg",
+        "release_dates": [2008, 2009, 2010, 2011, 2012],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui002.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "030",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui030_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui030.html"
+      },
+      {
+        "name": "Version 2",
+        "id": "278",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui278_01.jpg",
+        "release_dates": [2014, 2016, 2020],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui278.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "423",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui423_01.jpg",
+        "release_dates": [2016, 2017, 2018, 2020],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui423.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "123",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui123_01.jpg",
+        "release_dates": [2011],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui123.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "453",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui453_01.jpg",
+        "release_dates": [2016],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui453.html"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "746",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui746.jpg",
+        "release_dates": [2020],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui746.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "023",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui023_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/archive/nui/nui023.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "740",
+        "img": "https://www.gift-gift.jp/nui/files/images/0ef10aad3fd6ea049e15659f3f14d95a3026a917.jpg",
+        "release_dates": [2020],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui740.html"
+      }
+    ],
+    "puppets": [
+      {
+        "name": "Puppet",
+        "id": "022",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui022_01.jpg",
+        "release_dates": [2009],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui022.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-3",
+    "name": "Izayoi Sakuya",
+    "original": "十六夜 咲夜",
+    "thwiki": "https://en.touhouwiki.net/wiki/Sakuya_Izayoi",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "004",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui004_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui004.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "044",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui044_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/archive/nui/nui044.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "356",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui356_01.jpg",
+        "release_dates": [2015, 2016, 2017, 2018, 2019],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui356.html"
+      },
+      {
+        "name": "Inu (Dog) Version",
+        "id": "inu-sakuya",
+        "img": "https://cdn.discordapp.com/attachments/454070186405003266/550907554436481024/Diverse1252940707.png",
+        "release_dates": [2009],
+        "link": "",
+        "rarity": "Uncommon",
+        "price_range": "$70 - $110"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "152",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui152_01.jpg",
+        "release_dates": [2011],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui152.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-4",
+    "name": "Remilia Scarlet",
+    "original": "レミリア・スカーレット",
+    "thwiki": "https://en.touhouwiki.net/wiki/Remilia_Scarlet",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "005",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui005_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui005.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "105",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui105_01.jpg",
+        "release_dates": [2011, 2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui105.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "364",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui364_01.jpg",
+        "release_dates": [2015, 2017, 2018],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui364.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "686",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui686_01.jpg",
+        "release_dates": [2019],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui686.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "168",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui168_01.jpg",
+        "release_dates": [2011],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui168.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "124",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui124_01.jpg",
+        "release_dates": [2011],
+        "rarity": "Super Super Rare",
+        "link": "https://www.gift-gift.jp/archive/nui/nui124.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-5",
+    "name": "Patchouli Knowledge",
+    "original": "パチュリー・ノーレッジ",
+    "thwiki": "https://en.touhouwiki.net/wiki/Patchouli_Knowledge",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "006",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui006_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui006.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "492",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui492_01.jpg",
+        "release_dates": [2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui492.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-6",
+    "name": "Alice Margatroid",
+    "original": "アリス・マーガトロイド",
+    "thwiki": "https://en.touhouwiki.net/wiki/Alice_Margatroid",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "007",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui007_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui007.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "491",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui491_01.jpg",
+        "release_dates": [2017, 2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui491.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-7",
+    "name": "Flandre Scarlet",
+    "original": "フランドール・スカーレット",
+    "thwiki": "https://en.touhouwiki.net/wiki/Flandre_Scarlet",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "008",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui008_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui008.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "106",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui106_01.jpg",
+        "release_dates": [2011, 2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui106.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "346",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui346_01.jpg",
+        "release_dates": [2015, 2016, 2017, 2018, 2019],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui346.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "189",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui189_01.jpg",
+        "release_dates": [2012],
+        "rarity": "Super Super Rare",
+        "link": "https://www.gift-gift.jp/archive/nui/nui189.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "181",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui181_01.jpg",
+        "release_dates": [2012],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui181.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-8",
+    "name": "Kochiya Sanae",
+    "original": "東風谷 早苗",
+    "thwiki": "https://en.touhouwiki.net/wiki/Sanae_Kochiya",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "013",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui013_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui013.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "045",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui045_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui045.html"
+      },
+      {
+        "name": "Version 2",
+        "id": "290",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui290_01.jpg",
+        "release_dates": [2014, 2019],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui290.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "153",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui153_01.jpg",
+        "release_dates": [2011],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui153.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-9",
+    "name": "Cirno",
+    "original": "チルノ",
+    "thwiki": "https://en.touhouwiki.net/wiki/Cirno",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "014",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui014_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2013],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui014.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "195",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui195_01.jpg",
+        "release_dates": [2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui195.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "558",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui558_01.jpg",
+        "release_dates": [2018, 2019],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui558.html"
+      },
+      {
+        "name": "Tanned Version",
+        "id": 559,
+        "img": "https://www.gift-gift.jp/nui/files/images/nui559_01.jpg",
+        "release_dates": [2018, 2019],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui559.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "050",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui050_01.jpg",
+        "release_dates": [2010, 2011],
+        "rarity": "Super Super Rare",
+        "link": "https://www.gift-gift.jp/archive/nui/nui050.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-10",
+    "name": "Moriya Suwako",
+    "original": "洩矢 諏訪子",
+    "thwiki": "https://en.touhouwiki.net/wiki/Suwako_Moriya",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "015",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui015_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui015.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-11",
+    "name": "Konpaku Youmu",
+    "original": "魂魄",
+    "thwiki": "https://en.touhouwiki.net/wiki/Youmu_Konpaku",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "039",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui039_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui039.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "489",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui489_01.jpg",
+        "release_dates": [2017, 2018, 2019, 2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui489.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-12",
+    "name": "Saigyouji Yuyuko",
+    "original": "西行寺 幽々子",
+    "thwiki": "https://en.touhouwiki.net/wiki/Yuyuko_Saigyouji",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "040",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui040_01.jpg",
+        "release_dates": [2010, 2011, 2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui040.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "490",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui490_01.jpg",
+        "release_dates": [2017, 2018, 2019, 2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui490.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-13",
+    "name": "Hong Meiling",
+    "original": "紅 美 鈴",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hong_Meiling",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "056",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui056_01.jpg",
+        "release_dates": [2010, 2011],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui056.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-14",
+    "name": "Chen",
+    "original": "橙",
+    "thwiki": "https://en.touhouwiki.net/wiki/Chen",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "080",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui080_01.jpg",
+        "release_dates": [2010, 2011, 2013],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui080.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "523",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui523_01.jpg",
+        "release_dates": [2017, 2018],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui523.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-15",
+    "name": "Yakumo Ran",
+    "original": "八雲 藍",
+    "thwiki": "https://en.touhouwiki.net/wiki/Ran_Yakumo",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "081",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui081_01.jpg",
+        "release_dates": [2010, 2011, 2013],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui081.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "524",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui524_01.jpg",
+        "release_dates": [2017, 2018],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui524.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-16",
+    "name": "Yakumo Yukari",
+    "original": "八雲 紫",
+    "thwiki": "https://en.touhouwiki.net/wiki/Yukari_Yakumo",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "082",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui082_01.jpg",
+        "release_dates": [2010, 2011, 2013],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui082.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "525",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui525_01.jpg",
+        "release_dates": [2017, 2018],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui525.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-17",
+    "name": "Houraisan Kaguya",
+    "original": "蓬莱山 輝夜",
+    "thwiki": "https://en.touhouwiki.net/wiki/Kaguya_Houraisan",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "138",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui138_01.jpg",
+        "release_dates": [2011, 2021],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui138.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-18",
+    "name": "Fujiwara no Mokou",
+    "original": "藤原 妹紅",
+    "thwiki": "https://en.touhouwiki.net/wiki/Fujiwara_no_Mokou",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "139",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui139_01.jpg",
+        "release_dates": [2011, 2016, 2018, 2021],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui139.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-19",
+    "name": "Komeiji Satori",
+    "original": "古明地 さとり",
+    "thwiki": "https://en.touhouwiki.net/wiki/Satori_Komeiji",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "196",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui196_01.jpg",
+        "release_dates": [2012, 2013, 2015, 2016, 2017, 2018, 2020],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui196.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "808",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui808_01.jpg",
+        "release_dates": [2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui808.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "820",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui820_01.jpg",
+        "release_dates": [2021],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui820.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-20",
+    "name": "Komeiji Koishi",
+    "original": "古明地 こいし",
+    "thwiki": "https://en.touhouwiki.net/wiki/Koishi_Komeiji",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "197",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui197_01.jpg",
+        "release_dates": [2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui197.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "809",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui809_01.jpg",
+        "release_dates": [2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui809.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "821",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui821_01.jpg",
+        "release_dates": [2021],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui821.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-21",
+    "name": "Reisen Udongein Inaba",
+    "original": "鈴仙・優曇華院・イナバ",
+    "thwiki": "https://en.touhouwiki.net/wiki/Reisen_Udongein_Inaba",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "236",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui236_01.jpg",
+        "release_dates": [2013, 2016, 2021],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui236.html"
+      },
+      {
+        "name": "Hisouten Version",
+        "id": "424",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui424_01.jpg",
+        "release_dates": [2016],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui424.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-22",
+    "name": "Inaba Tewi",
+    "original": "因幡 てゐ",
+    "thwiki": "https://en.touhouwiki.net/wiki/Tewi_Inaba",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "237",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui237_01.jpg",
+        "release_dates": [2013, 2015, 2021],
+        "rarity": "Super Rare",
+        "link": "https://www.gift-gift.jp/nui/nui237.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-23",
+    "name": "Hata no Kokoro",
+    "original": "秦 こころ",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hata_no_Kokoro",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "310",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui310_01.jpg",
+        "release_dates": [2014, 2015, 2016, 2017, 2018, 2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui310.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-24",
+    "name": "Ibaraki Kasen",
+    "original": "茨木 華扇",
+    "thwiki": "https://en.touhouwiki.net/wiki/Kasen_Ibaraki",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "454",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui454_01.jpg",
+        "release_dates": [2016, 2017],
+        "rarity": "Rare",
+        "link": "https://www.gift-gift.jp/nui/nui454.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-25",
+    "name": "Shameimaru Aya",
+    "original": "射命丸 文",
+    "thwiki": "https://en.touhouwiki.net/wiki/Aya_Shameimaru",
+    "regular": [
+      {
+        "name": "Nendroid Plus",
+        "id": "058",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Unknown",
+        "link": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg"
+      },
+      {
+        "name": "Version 1",
+        "id": "493",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui493_01.jpg",
+        "release_dates": [2017, 2018, 2019, 2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui493.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-26",
+    "name": "Himekaidou Hatate",
+    "original": "姫海棠 はたて",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hatate_Himekaidou",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "494",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui494_01.jpg",
+        "release_dates": [2017, 2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui494.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-27",
+    "name": "Hinanawi Tenshi",
+    "original": "比那名居 天子",
+    "thwiki": "https://en.touhouwiki.net/wiki/Tenshi_Hinanawi",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "593",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui593_01.jpg",
+        "release_dates": [2018, 2019, 2021],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui593.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-28",
+    "name": "Yorigami Shion",
+    "original": "依神 紫苑",
+    "thwiki": "https://en.touhouwiki.net/wiki/Shion_Yorigami",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "644",
+        "img": "https://www.gift-gift.jp/nui/files/images/9245f412ccd5e559baca9cf78d195743b8f73fb6.jpg",
+        "release_dates": [2019, 2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui644.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-29",
+    "name": "Kazami Yuuka",
+    "original": "風見 幽香",
+    "thwiki": "https://en.touhouwiki.net/wiki/Yuuka_Kazami",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "685",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui685_01.jpg",
+        "release_dates": [2019],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui685.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-30",
+    "name": "Inubashiri Momiji",
+    "original": "犬走 椛",
+    "thwiki": "https://en.touhouwiki.net/wiki/Momiji_Inubashiri",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "773",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui773_01.jpg",
+        "release_dates": [2020, 2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui773.html"
+      }
+    ]
+  },
+  {
+    "id": "Ch-31",
+    "name": "Eirin Yagokoro",
+    "original": "八意 永琳",
+    "thwiki": "https://en.touhouwiki.net/wiki/Eirin_Yagokoro",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "807",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui807_01.jpg",
+        "release_dates": [2021],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/nui/nui807.html"
+      }
+    ]
+  }
+]

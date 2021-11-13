@@ -1,0 +1,93 @@
+{
+  "faq": [
+    {
+        "id": "how-get",
+        "question": "How do I get a Fumo?",
+        "answer": [
+            "You have two main options: find a trustworthy",
+            "<a href='reseller.html'>reseller</a> at a reasonable price, or",
+            "order one from Gift directly using a",
+            "<a href='proxy_forward.html'>Proxy or Forwarding Service</a>.",
+            "You may need to use both, depending on the reseller."
+        ]
+    },
+    {
+        "id": "prerequisites",
+        "question": "What do I need in order to get a Fumo?",
+        "answer": [
+            "The same things you need for any other online shopping:",
+            "<ul>",
+            "<li>A payment method - this means a credit or debit card. Gift itself does not",
+            "accept Paypal, but many storefronts do.</li>",
+            "<li>Money - expect to spend between 50 and 200 USD, depending on the Fumo,",
+            "shipping costs, and source. Deka fumos range from $500 - $3000.</li>",
+            "<li>Time - Shipping from overseas can take a long time.</li>",
+            "</ul>"
+        ]
+    },
+    {
+        "id": "which-char",
+        "question": "Which characters have Fumos?",
+        "answer": [
+            "Check out our helpful <a href='/fumo_table.html'>Fumo Table</a>.",
+            "You can also look through the entire Gift catalog <a href='https://www.gift-gift.jp/nui/'>here</a>."
+        ]
+    },
+    {
+        "id": "species",
+        "question": "What are the varieties of Fumo?",
+        "answer": [
+            "<ul>",
+            "<li>Normal - a normal fumo. Typically about 20cm tall sitting.",
+            "Nendroid ones are taller and posable.</li>",
+            "<li>Toy Strap - a small fumo with a strap for key chains.</li>",
+            "<li>Deka - a giant fumo. 70cm tall and incredibly expensive. \"Deka\" comes from the Japanese",
+            "\"dekai\", meaning huge.</li>",
+            "<li>Puppet - a hand puppet, about 40cm tall.</li>",
+            "</ul>"
+        ]
+    },
+    {
+        "id": "bootlegs",
+        "question": "How good are bootleg Fumos?",
+        "answer": [
+            "Bootleg fumos, mimicking the Fumo style and passed off as being authentic, are often cheaper",
+            "than real ones. However, Some have their own character and value, like the long-legged",
+            "bootleg dekas, but many do not. You'll have to decide on your own, but know that you're taking",
+            "a risk. For information on avoiding bootlegs, see the <a href='reseller.html#bootleg'>reseller guide</a>."
+        ]
+    },
+    {
+        "id": "customs",
+        "question": "I've seen Fumos that aren't listed!",
+        "answer": [
+            "That was most likely a custom fumo! There are quite a few people out there who make custom fumos",
+            "themselves."
+        ]
+    },
+    {
+        "id": "etymology",
+        "question": "What does \"Fumo\" mean?",
+        "answer": [
+            "The word \"Fumo\" comes from the Japanese onomatopoeia \"モフモフ\" (mofumofu), which means \"soft to the",
+            "touch\", or \"fluffy\"."
+        ]
+    },
+    {
+        "id": "community",
+        "question": "Where can I find, meet, and/or discuss fumo with others?",
+        "answer": [
+            "There are plenty of online communities for discussing and sharing our soft friends. /jp/ on 4chan regularly has ",
+            "fumo related threads. /r/fumofumo on reddit also is a nice place to post fumos, and there are several fumo-related ",
+            "Discord communities like Fumo Project: <a href='https://discord.gg/TyF7VKSwGZ'>https://discord.gg/TyF7VKSwGZ</a>."
+        ]
+    },
+    {
+        "id": "fumo",
+        "question": "Fumo?",
+        "answer": [
+            "Fumo."
+        ]
+    }
+  ]
+}
