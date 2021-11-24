@@ -1,5 +1,8 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
+import { darkMode } from "../../tailwind.config";
+
+const KEY = "FumoSite.Darkmode";
 
 const Layout = ({ pageTitle, children }) => {
   const data = useStaticQuery(graphql`
@@ -12,12 +15,42 @@ const Layout = ({ pageTitle, children }) => {
     }
   `);
 
+  const [isDarkMode, setIsDarkMode] = useState(true);
+
+  useEffect(() => {
+    localStorage.setItem(KEY, JSON.stringify(isDarkMode));
+  }, [isDarkMode]);
+
+  useEffect(() => {
+    const darkmodeOn = JSON.parse(localStorage.getItem(KEY));
+    if (darkmodeOn) {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+  }, []);
+
+  useEffect(() => {
+    if (isDarkMode) {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+  }, [isDarkMode])
+
+  const switchColorTheme = () => {
+    setIsDarkMode(!isDarkMode)
+  };
+
   return (
-    <div>
+    <div className="bg-white dark:bg-black">
       <title>
         {pageTitle} | {data.site.siteMetadata.title}
       </title>
-      <header>{data.site.siteMetadata.title}</header>
+      <header>
+        {data.site.siteMetadata.title}
+        <button onClick={switchColorTheme}>darkmode</button>
+      </header>
       <nav>
         <ul>
           <li>
