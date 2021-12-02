@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Link, useStaticQuery, graphql } from "gatsby";
+import { useStaticQuery, graphql } from "gatsby";
 
 // Components
 import Logo from "../components/Logo";
@@ -65,7 +65,7 @@ const Layout = ({ pageTitle, children }) => {
         {pageTitle} | {data.site.siteMetadata.title}
       </title>
       <nav className="bg-white shadow-lg">
-        <div className="max-w-6xl mx-auto px-4">
+        <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-between">
             <div className="flex space-x-7">
               <Logo />
