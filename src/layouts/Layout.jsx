@@ -7,6 +7,7 @@ import PrimaryNavItems from "../components/PrimaryNavItems";
 import ColorThemeSwitch from "../components/ColorThemeSwitch";
 import MobileMenuButton from "../components/MobileMenuButton";
 import MobileNavMenu from "../components/MobileNavMenu";
+import Footer from "../components/Footer";
 
 const KEY = "FumoSite.Darkmode";
 
@@ -77,9 +78,8 @@ const Layout = ({ pageTitle, children }) => {
         </div>
         <MobileNavMenu show={showMobileNav} />
       </nav>
-      <main>
-        {children}
-      </main>
+      <main>{children}</main>
+      <Footer />
     </div>
   );
 };
