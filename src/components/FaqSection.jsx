@@ -8,7 +8,7 @@ const FaqSection = () => {
   return (
     <div className="w-full">
       <div className="w-4/5 m-auto">
-        <h3 className="text-red-500 font-semibold text-2xl mb-2 mt-6">FAQ:</h3>
+        <h3 className="text-red-500 font-semibold text-2xl mb-2 mt-6 md:text-3xl">FAQ:</h3>
         <div>
           <FaqItem question="What does 'Fumo' mean?">
             <p className='pl-4'>

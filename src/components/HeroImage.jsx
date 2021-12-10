@@ -10,10 +10,10 @@ const HeroImage = () => (
         className="w-60 max-w-sm rounded-full md:rounded-lg"
       />
       <div className="max-w-sm text-center md:text-left">
-        <h2 className="pt-4 text-yellow-200 font-semibold text-2xl md:py-4 md:text-4xl">
+        <h2 className="pt-4 text-yellow-200 font-semibold text-2xl md:py-4 md:text-5xl">
           Fumos
         </h2>
-        <p className="max-w-sm text-gray-100 text-lg md:text-xl">
+        <p className="max-w-sm text-gray-100 text-lg md:text-2xl">
           Everything you need to know about, more beautiful than ever.
         </p>
       </div>
