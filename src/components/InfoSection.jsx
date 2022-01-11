@@ -11,8 +11,8 @@ const InfoSection = () => {
   }, []);
 
   return (
-    <div className="w-4/5 mx-auto my-10 mt-2 max-w-7xl 2xl:mt-40">
-      <div className="flex 2xl:justify-between items-center 2xl:mb-40" data-aos="fade-up">
+    <div className="w-4/5 mx-auto my-10 mt-2 max-w-7xl 2xl:mt-40 2xl:mb-32">
+      <div className="flex lg:justify-between items-center 2xl:mb-40" data-aos="fade-up">
         <div className="max-w-xl 2xl:max-w-2xl">
           <h3 className="text-red-500 font-semibold text-3xl mb-2 mt-6 2xl:text-7xl 2xl:mb-4">
             What is a Fumo?
@@ -40,20 +40,20 @@ const InfoSection = () => {
         <StaticImage
           src="../images/Cirno.jpg"
           alt="Cirno-Fumo"
-          className="hidden 2xl:block rounded-lg "
+          className="hidden lg:block rounded-lg"
         />
       </div>
-      <div className="flex 2xl:justify-between items-center" data-aos="fade-up">
+      <div className="flex lg:mt-20 justify-between items-center lg:space-x-8" data-aos="fade-up">
         <StaticImage
           src="../images/Flandre.jpg"
           alt="Flandre-Fumo"
-          className="hidden 2xl:block rounded-lg "
+          className="hidden lg:block rounded-lg max-w-xs 2xl:max-w-none"
         />
         <div className="max-w-xl 2xl:max-w-2xl">
           <h3 className="text-red-500 font-semibold text-3xl mb-2 mt-6 2xl:text-7xl 2xl:mb-4">
             Accessibility:
           </h3>
-          <p className="w-full text-lg mb-4 md:text-xl 2xl:text-3xl">
+          <p className="w-full text-lg mb-4 md:text-xl lg:max-w-xl 2xl:text-3xl">
             Fumos are generally difficult to purchase, even in Japan, due to
             their relative scarcity. Fumos are out-of-stock as a rule, and Gift
             typically only manufactures them twice a year, when they open for
