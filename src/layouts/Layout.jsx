@@ -67,7 +67,7 @@ const Layout = ({ pageTitle, children }) => {
       </title>
       <nav className="bg-white shadow-lg">
         <div className="max-w-7xl mx-auto px-4">
-          <div className="flex justify-between md:justify-center">
+          <div className="flex justify-between md:justify-center 2xl:justify-between">
             <div className="flex space-x-7">
               <Logo />
               <PrimaryNavItems />

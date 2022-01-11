@@ -1,6 +1,5 @@
 import React from "react";
 import { StaticImage } from "gatsby-plugin-image";
-import { Link } from "gatsby";
 
 const Footer = () => (
   <div className="w-full mt-8 bg-red-500">
@@ -19,7 +18,7 @@ const Footer = () => (
           <StaticImage
             src="../images/link-external.png"
             alt="External Link"
-            className="w-14 rounded-lg mt-8 lg:mt-3"
+            className="w-14 rounded-lg mt-8 2xl:mt-3"
           />
         </a>
       </div>
