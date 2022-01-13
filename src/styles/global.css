@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  .hidden-i {
+    display: none !important;
+  }
+
+  .block-i {
+    display: block !important;
+  }
+}
