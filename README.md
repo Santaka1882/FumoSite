@@ -2,7 +2,7 @@
 
 The FumoSite is a website where you will find information and guides of how to buy this type of plushies.
 
-To view the website [click here](https://santaka1882.github.io/MineSweeper/).
+To view the website [click here](https://fumosite.gatsbyjs.io/).
 
 This is a re-design of an existing page, if you want to view the original [click here](https://fumo.website/).
 
