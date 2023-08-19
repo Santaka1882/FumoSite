@@ -11,27 +11,28 @@ const InfoSection = () => {
   }, []);
 
   return (
-    <div className="w-4/5 mx-auto my-10 mt-2 max-w-7xl 2xl:mt-40 2xl:mb-32">
-      <div className="flex lg:justify-between items-center 2xl:mb-40" data-aos="fade-up">
+    <div className="w-4/5 mx-auto my-10 mt-2 max-w-7xl 2xl:mt-40 2xl:mb-12">
+      <div className="flex lg:justify-around items-center 2xl:mb-40 " data-aos="fade-up">
         <div className="max-w-xl 2xl:max-w-2xl">
-          <h3 className="text-red-500 font-semibold text-3xl mb-2 mt-6 2xl:text-7xl 2xl:mb-4">
+          <h3 className="text-red-500 font-semibold text-3xl mb-2 mt-6 2xl:text-6xl 2xl:mb-4">
             What is a Fumo?
           </h3>
           <p className="w-full text-lg mb-4 md:text-xl 2xl:text-3xl">
             Fumos are a line of high-quality plush character figures
             manufactured and sold by the Japanese company{" "}
-            <a href="https://www.gift-gift.jp/" className="text-red-500">
+            <a href="https://www.gift-gift.jp/" className="text-red-500" target="_blank">
               Gift
             </a>
             . Fumos exist for multiple franchises, but most notably the{" "}
             <a
               href="https://en.touhouwiki.net/wiki/Touhou_Wiki"
               className="text-red-500"
+              target="_blank"
             >
               Touhou Project
             </a>
             . Touhou Fumos are designed by{" "}
-            <a href="https://royalcat.xyz/" className="text-red-500">
+            <a href="https://royalcat.xyz/" className="text-red-500" target="_blank">
               Royalcat
             </a>
             .
@@ -40,17 +41,17 @@ const InfoSection = () => {
         <StaticImage
           src="../images/Cirno.jpg"
           alt="Cirno-Fumo"
-          className="hidden-i lg:block-i rounded-lg"
+          className="hidden-i lg:block-i rounded-lg w-80"
         />
       </div>
-      <div className="flex lg:mt-20 justify-between items-center lg:space-x-8" data-aos="fade-up">
+      <div className="flex lg:mt-14 justify-around items-center lg:space-x-8" data-aos="fade-up">
         <StaticImage
           src="../images/Flandre.jpg"
           alt="Flandre-Fumo"
-          className="hidden-i lg:block-i rounded-lg max-w-xs 2xl:max-w-none"
+          className="hidden-i lg:block-i rounded-lg max-w-xs 2xl:max-w-none w-80"
         />
         <div className="max-w-xl 2xl:max-w-2xl">
-          <h3 className="text-red-500 font-semibold text-3xl mb-2 mt-6 2xl:text-7xl 2xl:mb-4">
+          <h3 className="text-red-500 font-semibold text-3xl mb-2 mt-6 2xl:text-6xl 2xl:mb-4">
             Accessibility:
           </h3>
           <p className="w-full text-lg mb-4 md:text-xl lg:max-w-xl 2xl:text-3xl">

@@ -16,7 +16,7 @@ const FaqSection = () => {
   return (
     <div className="w-full 2xl:w-4/5 mx-auto max-w-7xl" data-aos="fade-up">
       <div className="w-4/5 m-auto 2xl:m-0">
-        <h3 className="text-red-500 font-semibold text-2xl mb-2 mt-6 md:text-3xl 2xl:text-7xl 2xl:mb-6">FAQ:</h3>
+        <h3 className="text-red-500 font-semibold text-2xl mb-2 mt-6 md:text-3xl 2xl:text-5xl 2xl:mb-6">FAQ:</h3>
         <div>
           <FaqItem question="What does 'Fumo' mean?">
             <p className='pl-4'>
