@@ -23,7 +23,7 @@ const HeroImage = () => {
             Fumos
           </h2>
           <p className="max-w-sm text-gray-100 text-lg md:text-2xl 2xl:text-4xl 2xl:max-w-lg">
-            Everything you need to know about, more beautiful than ever.
+            Everything you need to know about.
           </p>
         </div>
       </div>
