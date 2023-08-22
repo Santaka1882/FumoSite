@@ -2,7 +2,7 @@ import React from 'react'
 
 import Card from './Card'
 
-const CharacterCardGrid = ({ title, regular, puppets, straps }) => {
+const CharacterCardGrid = ({ title, regular, puppets, dekas, straps }) => {
     return (
         <div className='w-full mx-auto mt-5 text-center md:text-left'>
             <h3 className='text-xl text-red-500 font-semibold'>{title}</h3>
@@ -14,6 +14,12 @@ const CharacterCardGrid = ({ title, regular, puppets, straps }) => {
                 }
                 {   puppets !== null &&
                         puppets.map(plush => (
+                            <Card key={plush.name} name={plush.name} imageId={plush.id}/>
+                        ))
+                }
+                {
+                    dekas !== null &&
+                        dekas.map(plush => (
                             <Card key={plush.name} name={plush.name} imageId={plush.id}/>
                         ))
                 }

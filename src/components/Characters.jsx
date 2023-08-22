@@ -17,6 +17,10 @@ const Characters = () => {
                         id
                         name
                     }
+                    dekas {
+                        name
+                        id
+                      }
                     straps {
                         id
                         name
@@ -39,7 +43,8 @@ const Characters = () => {
                             key={character.name}
                             title={character.name}
                             regular={character.regular}
-                            puppets={character.puppets} 
+                            puppets={character.puppets}
+                            dekas={character.dekas} 
                             straps={character.straps}
                         />
                     ))
