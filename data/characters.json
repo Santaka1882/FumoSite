@@ -16,7 +16,7 @@
       },
       {
         "name": "Nendroid Plus",
-        "id": "029",
+        "id": "122",
         "img": "https://www.gift-gift.jp/archive/nui/images/nui029_01.jpg",
         "release_dates": [2010],
         "rarity": "Uncommon",
@@ -34,23 +34,6 @@
       }
     ],
     "straps": [
-      {
-        "name": "Nendroid Plus",
-        "id": "122",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui122_01.jpg",
-        "release_dates": [2011],
-        "rarity": "Rare",
-        "link": "https://www.gift-gift.jp/nui/nui122.html"
-      },
-      {
-        "name": "Kourindou Version",
-        "id": "452",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui452_01.jpg",
-        "release_dates": [2016],
-        "rarity": "Rare",
-        "price_range": "$100 - $200+",
-        "link": "https://www.gift-gift.jp/nui/nui452.html"
-      },
       {
         "name": "Plush Strap",
         "id": "745",
@@ -109,7 +92,7 @@
       },
       {
         "name": "Nendroid Plus",
-        "id": "030",
+        "id": "123",
         "img": "https://www.gift-gift.jp/archive/nui/images/nui030_01.jpg",
         "release_dates": [2010],
         "rarity": "Uncommon",
@@ -133,22 +116,6 @@
       }
     ],
     "straps": [
-      {
-        "name": "Nendroid Plus",
-        "id": "123",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui123_01.jpg",
-        "release_dates": [2011],
-        "rarity": "Rare",
-        "link": "https://www.gift-gift.jp/nui/nui123.html"
-      },
-      {
-        "name": "Kourindou Version",
-        "id": "453",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui453_01.jpg",
-        "release_dates": [2016],
-        "rarity": "Rare",
-        "link": "https://www.gift-gift.jp/nui/nui453.html"
-      },
       {
         "name": "Plush Strap",
         "id": "746",
@@ -203,7 +170,7 @@
       },
       {
         "name": "Nendroid Plus",
-        "id": "044",
+        "id": "152",
         "img": "https://www.gift-gift.jp/archive/nui/images/nui044_01.jpg",
         "release_dates": [2010],
         "rarity": "Common",
@@ -226,16 +193,6 @@
         "rarity": "Uncommon",
         "price_range": "$70 - $110"
       }
-    ],
-    "straps": [
-      {
-        "name": "Nendroid Plus",
-        "id": "152",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui152_01.jpg",
-        "release_dates": [2011],
-        "rarity": "Rare",
-        "link": "https://www.gift-gift.jp/nui/nui152.html"
-      }
     ]
   },
   {
@@ -254,7 +211,7 @@
       },
       {
         "name": "Nendroid Plus",
-        "id": "105",
+        "id": "168",
         "img": "https://www.gift-gift.jp/archive/nui/images/nui105_01.jpg",
         "release_dates": [2011, 2012],
         "rarity": "Uncommon",
@@ -275,16 +232,6 @@
         "release_dates": [2019],
         "rarity": "Uncommon",
         "link": "https://www.gift-gift.jp/nui/nui686.html"
-      }
-    ],
-    "straps": [
-      {
-        "name": "Nendroid Plus",
-        "id": "168",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui168_01.jpg",
-        "release_dates": [2011],
-        "rarity": "Rare",
-        "link": "https://www.gift-gift.jp/nui/nui168.html"
       }
     ],
     "dekas": [
@@ -362,7 +309,7 @@
       },
       {
         "name": "Nendroid Plus",
-        "id": "106",
+        "id": "181",
         "img": "https://www.gift-gift.jp/archive/nui/images/nui106_01.jpg",
         "release_dates": [2011, 2012],
         "rarity": "Uncommon",
@@ -386,16 +333,6 @@
         "rarity": "Super Super Rare",
         "link": "https://www.gift-gift.jp/archive/nui/nui189.html"
       }
-    ],
-    "straps": [
-      {
-        "name": "Nendroid Plus",
-        "id": "181",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui181_01.jpg",
-        "release_dates": [2012],
-        "rarity": "Rare",
-        "link": "https://www.gift-gift.jp/nui/nui181.html"
-      }
     ]
   },
   {
@@ -414,7 +351,7 @@
       },
       {
         "name": "Nendroid Plus",
-        "id": "045",
+        "id": "153",
         "img": "https://www.gift-gift.jp/archive/nui/images/nui045_01.jpg",
         "release_dates": [2010],
         "rarity": "Uncommon",
@@ -427,16 +364,6 @@
         "release_dates": [2014, 2019],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui290.html"
-      }
-    ],
-    "straps": [
-      {
-        "name": "Nendroid Plus",
-        "id": "153",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui153_01.jpg",
-        "release_dates": [2011],
-        "rarity": "Rare",
-        "link": "https://www.gift-gift.jp/nui/nui153.html"
       }
     ]
   },
