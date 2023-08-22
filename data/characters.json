@@ -15,15 +15,6 @@
         "link": "https://www.gift-gift.jp/nui/nui001.html"
       },
       {
-        "name": "Nendroid Plus",
-        "id": "122",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui029_01.jpg",
-        "release_dates": [2010],
-        "rarity": "Uncommon",
-        "price_range": "$80 - $120",
-        "link": "https://www.gift-gift.jp/archive/nui/nui029.html"
-      },
-      {
         "name": "Kourindou Version",
         "id": "345",
         "img": "https://www.gift-gift.jp/nui/files/images/nui345_01.jpg",
@@ -31,6 +22,15 @@
         "rarity": "Common",
         "price_range": "$40 - $60",
         "link": "https://www.gift-gift.jp/nui/nui345.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "122",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui029_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Uncommon",
+        "price_range": "$80 - $120",
+        "link": "https://www.gift-gift.jp/archive/nui/nui029.html"
       }
     ],
     "straps": [
@@ -91,14 +91,6 @@
         "link": "https://www.gift-gift.jp/nui/nui002.html"
       },
       {
-        "name": "Nendroid Plus",
-        "id": "123",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui030_01.jpg",
-        "release_dates": [2010],
-        "rarity": "Uncommon",
-        "link": "https://www.gift-gift.jp/archive/nui/nui030.html"
-      },
-      {
         "name": "Version 2",
         "id": "278",
         "img": "https://www.gift-gift.jp/nui/files/images/nui278_01.jpg",
@@ -113,6 +105,14 @@
         "release_dates": [2016, 2017, 2018, 2020],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui423.html"
+      }, 
+      {
+        "name": "Nendroid Plus",
+        "id": "123",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui030_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui030.html"
       }
     ],
     "straps": [
@@ -169,20 +169,20 @@
         "link": "https://www.gift-gift.jp/nui/nui004.html"
       },
       {
-        "name": "Nendroid Plus",
-        "id": "152",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui044_01.jpg",
-        "release_dates": [2010],
-        "rarity": "Common",
-        "link": "https://www.gift-gift.jp/archive/nui/nui044.html"
-      },
-      {
         "name": "Kourindou Version",
         "id": "356",
         "img": "https://www.gift-gift.jp/nui/files/images/nui356_01.jpg",
         "release_dates": [2015, 2016, 2017, 2018, 2019],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui356.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "152",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui044_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Common",
+        "link": "https://www.gift-gift.jp/archive/nui/nui044.html"
       },
       {
         "name": "Inu (Dog) Version",
@@ -210,14 +210,6 @@
         "link": "https://www.gift-gift.jp/nui/nui005.html"
       },
       {
-        "name": "Nendroid Plus",
-        "id": "168",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui105_01.jpg",
-        "release_dates": [2011, 2012],
-        "rarity": "Uncommon",
-        "link": "https://www.gift-gift.jp/archive/nui/nui105.html"
-      },
-      {
         "name": "Kourindou Version",
         "id": "364",
         "img": "https://www.gift-gift.jp/nui/files/images/nui364_01.jpg",
@@ -232,6 +224,14 @@
         "release_dates": [2019],
         "rarity": "Uncommon",
         "link": "https://www.gift-gift.jp/nui/nui686.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "168",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui105_01.jpg",
+        "release_dates": [2011, 2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui105.html"
       }
     ],
     "dekas": [
@@ -308,20 +308,20 @@
         "link": "https://www.gift-gift.jp/nui/nui008.html"
       },
       {
-        "name": "Nendroid Plus",
-        "id": "181",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui106_01.jpg",
-        "release_dates": [2011, 2012],
-        "rarity": "Uncommon",
-        "link": "https://www.gift-gift.jp/archive/nui/nui106.html"
-      },
-      {
         "name": "Version 1.5",
         "id": "346",
         "img": "https://www.gift-gift.jp/nui/files/images/nui346_01.jpg",
         "release_dates": [2015, 2016, 2017, 2018, 2019],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui346.html"
+      },      
+      {
+        "name": "Nendroid Plus",
+        "id": "181",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui106_01.jpg",
+        "release_dates": [2011, 2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui106.html"
       }
     ],
     "dekas": [
@@ -350,20 +350,20 @@
         "link": "https://www.gift-gift.jp/nui/nui013.html"
       },
       {
-        "name": "Nendroid Plus",
-        "id": "153",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui045_01.jpg",
-        "release_dates": [2010],
-        "rarity": "Uncommon",
-        "link": "https://www.gift-gift.jp/archive/nui/nui045.html"
-      },
-      {
         "name": "Version 2",
         "id": "290",
         "img": "https://www.gift-gift.jp/nui/files/images/nui290_01.jpg",
         "release_dates": [2014, 2019],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui290.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "153",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui045_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui045.html"
       }
     ]
   },
@@ -382,14 +382,6 @@
         "link": "https://www.gift-gift.jp/nui/nui014.html"
       },
       {
-        "name": "Nendroid Plus",
-        "id": "195",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui195_01.jpg",
-        "release_dates": [2012],
-        "rarity": "Uncommon",
-        "link": "https://www.gift-gift.jp/archive/nui/nui195.html"
-      },
-      {
         "name": "Version 1.5",
         "id": "558",
         "img": "https://www.gift-gift.jp/nui/files/images/nui558_01.jpg",
@@ -404,6 +396,14 @@
         "release_dates": [2018, 2019],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui559.html"
+      },       
+      {
+        "name": "Nendroid Plus",
+        "id": "195",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui195_01.jpg",
+        "release_dates": [2012],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/archive/nui/nui195.html"
       }
     ],
     "dekas": [
@@ -440,20 +440,20 @@
     "thwiki": "https://en.touhouwiki.net/wiki/Youmu_Konpaku",
     "regular": [
       {
-        "name": "Version 1",
-        "id": "039",
-        "img": "https://www.gift-gift.jp/nui/files/images/nui039_01.jpg",
-        "release_dates": [2009, 2010, 2011],
-        "rarity": "Uncommon",
-        "link": "https://www.gift-gift.jp/nui/nui039.html"
-      },
-      {
         "name": "Version 1.5",
         "id": "489",
         "img": "https://www.gift-gift.jp/nui/files/images/nui489_01.jpg",
         "release_dates": [2017, 2018, 2019, 2020, 2021],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui489.html"
+      },       
+      {
+        "name": "Version 1",
+        "id": "039",
+        "img": "https://www.gift-gift.jp/nui/files/images/nui039_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "rarity": "Uncommon",
+        "link": "https://www.gift-gift.jp/nui/nui039.html"
       }
     ]
   },
@@ -752,20 +752,20 @@
     "thwiki": "https://en.touhouwiki.net/wiki/Aya_Shameimaru",
     "regular": [
       {
-        "name": "Nendroid Plus",
-        "id": "058",
-        "img": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg",
-        "release_dates": [2010],
-        "rarity": "Unknown",
-        "link": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg"
-      },
-      {
         "name": "Version 1",
         "id": "493",
         "img": "https://www.gift-gift.jp/nui/files/images/nui493_01.jpg",
         "release_dates": [2017, 2018, 2019, 2020, 2021],
         "rarity": "Common",
         "link": "https://www.gift-gift.jp/nui/nui493.html"
+      },  
+      {
+        "name": "Nendroid Plus",
+        "id": "058",
+        "img": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg",
+        "release_dates": [2010],
+        "rarity": "Unknown",
+        "link": "https://www.gift-gift.jp/archive/nui/images/nui058_01.jpg"
       }
     ]
   },
