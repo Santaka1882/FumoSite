@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 
 const BackToTopButton = () => {
 
@@ -21,8 +21,10 @@ const BackToTopButton = () => {
     });
   };
 
-  window.addEventListener("scroll", toggleVisible)
-
+  useEffect(() => {
+    window.addEventListener("scroll", toggleVisible)
+  },[])
+  
   return (
     <button 
         className={`${visible ? "fixed" : "hidden"} w-12 h-12 bottom-5 right-5 bg-yellow-200 rounded-full border-2 border-red-500`}
