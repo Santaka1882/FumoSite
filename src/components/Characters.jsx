@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 
 import { useStaticQuery, graphql } from 'gatsby'
 import CharacterCardGrid from './CharacterCardGrid'
+import BackToTopButton from './BackToTopButton'
 
 const Characters = () => {
     const data = useStaticQuery(graphql`
@@ -86,6 +87,7 @@ const Characters = () => {
                     ))
                 }
             </div>
+            <BackToTopButton/>
         </section>
     )
 }

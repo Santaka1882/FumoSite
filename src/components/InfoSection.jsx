@@ -20,7 +20,7 @@ const InfoSection = () => {
           <p className="w-full text-lg mb-4 md:text-xl 2xl:text-2xl">
             Fumos are a line of high-quality plush character figures
             manufactured and sold by the Japanese company{" "}
-            <a href="https://www.gift-gift.jp/" className="text-red-500" target="_blank">
+            <a href="https://www.gift-gift.jp/" className="text-red-500" target="_blank" rel="noreferrer">
               Gift
             </a>
             . Fumos exist for multiple franchises, but most notably the{" "}
@@ -28,11 +28,12 @@ const InfoSection = () => {
               href="https://en.touhouwiki.net/wiki/Touhou_Wiki"
               className="text-red-500"
               target="_blank"
+              rel="noreferrer"
             >
               Touhou Project
             </a>
             . Touhou Fumos are designed by{" "}
-            <a href="https://royalcat.xyz/" className="text-red-500" target="_blank">
+            <a href="https://royalcat.xyz/" className="text-red-500" target="_blank" rel="noreferrer">
               Royalcat
             </a>
             .
