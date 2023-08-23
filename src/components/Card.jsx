@@ -13,7 +13,7 @@ const Card = ({ name, imageId }) => {
         </div>
         
         <div className='py-2'>
-            <p className='text-yellow-200 font-semibold text'>{name}</p>
+            <p className='text-yellow-200 font-semibold text-center'>{name}</p>
         </div>
     </div>
   )
