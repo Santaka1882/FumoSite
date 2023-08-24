@@ -1,0 +1,89 @@
+[
+    {
+        "jp": "氏名",
+        "jp_alt": [],
+        "en": "Full Name"
+    },
+    {
+        "jp": "苗字",
+        "jp_alt": [
+            "名字",
+            "姓"
+        ],
+        "en": "Family Name"
+    },
+    {
+        "jp": "お名前",
+        "jp_alt": [
+            "名前",
+            "名"
+        ],
+        "en": "Given Name"
+    },
+    {
+        "jp": "フリガナ",
+        "en": "Furigana (Typically, leave this blank)"
+    },
+    {
+        "jp": "郵便番号",
+        "jp_alt": [
+            "〒"
+        ],
+        "en": "Postal Code (XXX-XXXX)"
+    },
+    {
+        "jp": "都道府県",
+        "jp_alt": [],
+        "en": "Prefecture"
+    },
+    {
+        "jp": "市区町村",
+        "jp_alt": [
+            "郡市区（島）"
+        ],
+        "en": "Municipality/City/Ward"
+    },
+    {
+        "jp": "町名",
+        "jp_alt": [],
+        "en": "City District/Town"
+    },
+    {
+        "jp": "番地",
+        "jp_alt": [],
+        "en": "House or Building Number (Hyphen positions matter)"
+    },
+    {
+        "jp": "建物名",
+        "jp_alt": [
+            "ビル名",
+            "マンション名"
+        ],
+        "en": "Building Name"
+    },
+    {
+        "jp": "号室",
+        "jp_alt": [],
+        "en": "Room Number"
+    },
+    {
+        "jp": "住所",
+        "jp_alt": [],
+        "en": "Address"
+    },
+    {
+        "jp": "会社名",
+        "jp_alt": [],
+        "en": "Company Name"
+    },
+    {
+        "jp": "電話番号",
+        "jp_alt": [],
+        "en": "Telephone Number"
+    },
+    {
+        "jp": "メールアドレス",
+        "jp_alt": [],
+        "en": "Email Address"
+    }
+]

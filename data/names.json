@@ -1,0 +1,840 @@
+[
+    {
+        "type": "Character",
+        "jp": "秋静葉",
+        "jp_alt": [
+            "あきしずは"
+        ],
+        "en": "Aki Shizuha"
+    },
+    {
+        "type": "Character",
+        "jp": "アリス・マーガトロイド",
+        "jp_alt": [],
+        "en": "Alice Margatroid"
+    },
+    {
+        "type": "Character",
+        "jp": "橙",
+        "jp_alt": [
+            "チェン",
+            "ちぇん"
+        ],
+        "en": "Chen"
+    },
+    {
+        "type": "Character",
+        "jp": "チルノ",
+        "jp_alt": [
+            "ちるの",
+            "⑨"
+        ],
+        "en": "Cirno"
+    },
+    {
+        "type": "Character",
+        "jp": "クラウンピース",
+        "jp_alt": [
+            "クラピ"
+        ],
+        "en": "Clownpiece"
+    },
+    {
+        "type": "Character",
+        "jp": "大妖精",
+        "jp_alt": [
+            "だいようせい",
+            "大ちゃん"
+        ],
+        "en": "Daiyousei"
+    },
+    {
+        "type": "Character",
+        "jp": "ドレミー・スイート",
+        "jp_alt": [],
+        "en": "Doremy Sweet"
+    },
+    {
+        "type": "Character",
+        "jp": "戎瓔花",
+        "jp_alt": [
+            "えびすえいか"
+        ],
+        "en": "Ebisu Eika"
+    },
+    {
+        "type": "Character",
+        "jp": "エタニティラルバ",
+        "jp_alt": [],
+        "en": "Eternity Larva"
+    },
+    {
+        "type": "Character",
+        "jp": "フランドール・スカーレット",
+        "jp_alt": [
+            "フラン"
+        ],
+        "en": "Flandre Scarlet"
+    },
+    {
+        "type": "Character",
+        "jp": "藤原妹紅",
+        "jp_alt": [
+            "ふじわらのもこう",
+            "もこたん"
+        ],
+        "en": "Fujiwara no Mokou"
+    },
+    {
+        "type": "Character",
+        "jp": "二ッ岩マミゾウ",
+        "jp_alt": [
+            "ふたついわマミゾウ"
+        ],
+        "en": "Futatsuiwa Mamizou"
+    },
+    {
+        "type": "Character",
+        "jp": "博麗霊夢",
+        "jp_alt": [
+            "はくれいれいむ"
+        ],
+        "en": "Hakurei Reimu"
+    },
+    {
+        "type": "Character",
+        "jp": "埴安神袿姫",
+        "jp_alt": [
+            "はにやすしんけいき"
+        ],
+        "en": "Haniyasushin Keiki"
+    },
+    {
+        "type": "Character",
+        "jp": "秦こころ",
+        "jp_alt": [
+            "はたのこころ"
+        ],
+        "en": "Hata no Kokoro"
+    },
+    {
+        "type": "Character",
+        "jp": "ヘカーティア・ラピスラズリ",
+        "jp_alt": [],
+        "en": "Hecatia Lapislazuli"
+    },
+    {
+        "type": "Character",
+        "jp": "稗田阿求",
+        "jp_alt": [
+            "ひえだのあきゅう"
+        ],
+        "en": "Hieda no Akyuu"
+    },
+    {
+        "type": "Character",
+        "jp": "聖白蓮",
+        "jp_alt": [
+            "ひじりびゃくれん"
+        ],
+        "en": "Hijiri Byakuren"
+    },
+    {
+        "type": "Character",
+        "jp": "姫海棠はたて",
+        "jp_alt": [
+            "ひめかいどうはたて"
+        ],
+        "en": "Himekaidou Hatate"
+    },
+    {
+        "type": "Character",
+        "jp": "比那名居天子",
+        "jp_alt": [
+            "ひななゐてんし"
+        ],
+        "en": "Hinanawi Tenshi"
+    },
+    {
+        "type": "Character",
+        "jp": "紅美鈴",
+        "jp_alt": [
+            "ホンメイリン"
+        ],
+        "en": "Hong Meiling"
+    },
+    {
+        "type": "Character",
+        "jp": "堀川雷鼓",
+        "jp_alt": [
+            "ほりかわらいこ"
+        ],
+        "en": "Horikawa Raiko"
+    },
+    {
+        "type": "Character",
+        "jp": "星熊勇儀",
+        "jp_alt": "ほしぐまゆうぎ",
+        "en": "Hoshiguma Yuugi"
+    },
+    {
+        "type": "Character",
+        "jp": "封獣ぬえ",
+        "jp_alt": [
+            "ほうじゅうぬえ"
+        ],
+        "en": "Houjuu Nue"
+    },
+    {
+        "type": "Character",
+        "jp": "蓬莱山輝夜",
+        "jp_alt": [
+            "ほうらいさんかぐや",
+            "ニート姫"
+        ],
+        "en": "Houraisan Kaguya"
+    },
+    {
+        "type": "Character",
+        "jp": "茨木華扇",
+        "jp_alt": [
+            "いばらきかせん"
+        ],
+        "en": "Ibaraki Kasen"
+    },
+    {
+        "type": "Character",
+        "jp": "伊吹萃香",
+        "jp_alt": [
+            "いぶきすいか"
+        ],
+        "en": "Ibuki Suika"
+    },
+    {
+        "type": "Character",
+        "jp": "今泉影狼",
+        "jp_alt": [
+            "いまいずみかげろう"
+        ],
+        "en": "Imaizumi Kagerou"
+    },
+    {
+        "type": "Character",
+        "jp": "因幡てゐ",
+        "jp_alt": [
+            "いなばてゐ"
+        ],
+        "en": "Inaba Tewi"
+    },
+    {
+        "type": "Character",
+        "jp": "犬走椛",
+        "jp_alt": [
+            "いぬばしりもみじ"
+        ],
+        "en": "Inubashiri Momiji"
+    },
+    {
+        "type": "Character",
+        "jp": "十六夜咲夜",
+        "jp_alt": "いざよいさくや",
+        "en": "Izayoi Sakuya"
+    },
+    {
+        "type": "Character",
+        "jp": "杖刀偶磨弓",
+        "jp_alt": [
+            "じょうとうぐうまゆみ"
+        ],
+        "en": "Joutouguu Mayumi"
+    },
+    {
+        "type": "Character",
+        "jp": "純狐",
+        "jp_alt": [
+            "じゅんこ"
+        ],
+        "en": "Junko"
+    },
+    {
+        "type": "Character",
+        "jp": "火焔猫燐",
+        "jp_alt": [
+            "かえんびょうりん",
+            "お燐"
+        ],
+        "en": "Kaenbyou Rin"
+    },
+    {
+        "type": "Character",
+        "jp": "鍵山雛",
+        "jp_alt": [
+            "かぎやまひな"
+        ],
+        "en": "Kagiyama Hina"
+    },
+    {
+        "type": "Character",
+        "jp": "霍青娥",
+        "jp_alt": [
+            "かくせいが"
+        ],
+        "en": "Kaku Seiga"
+    },
+    {
+        "type": "Character",
+        "jp": "上白沢慧音",
+        "jp_alt": [
+            "かみしらさわけいね"
+        ],
+        "en": "Kamishirasawa Keine"
+    },
+    {
+        "type": "Character",
+        "jp": "幽谷響子",
+        "jp_alt": [
+            "かそだにきょうこ"
+        ],
+        "en": "Kasodani Kyouko"
+    },
+    {
+        "type": "Character",
+        "jp": "河城にとり",
+        "jp_alt": [
+            "かわしろにとり"
+        ],
+        "en": "Kawashiro Nitori"
+    },
+    {
+        "type": "Character",
+        "jp": "風見幽香",
+        "jp_alt": [
+            "かざみゆうか"
+        ],
+        "en": "Kazami Yuuka"
+    },
+    {
+        "type": "Character",
+        "jp": "吉弔八千慧",
+        "jp_alt": [
+            "きっちょうやちえ"
+        ],
+        "en": "Kicchou Yachie"
+    },
+    {
+        "type": "Character",
+        "jp": "鬼人正邪",
+        "jp_alt": [
+            "きじんせいじゃ"
+        ],
+        "en": "Kijin Seija"
+    },
+    {
+        "type": "Character",
+        "jp": "霧雨魔理沙",
+        "jp_alt": [
+            "きりさめまりさ"
+        ],
+        "en": "Kirisame Marisa"
+    },
+    {
+        "type": "Character",
+        "jp": "稀神サグメ",
+        "jp_alt": [
+            "きしんサグメ"
+        ],
+        "en": "Kishin Sagume"
+    },
+    {
+        "type": "Character",
+        "jp": "小悪魔",
+        "jp_alt": [
+            "こあくま",
+            "こあ"
+        ],
+        "en": "Koakuma"
+    },
+    {
+        "type": "Character",
+        "jp": "東風谷早苗",
+        "jp_alt": [
+            "こちやさなえ"
+        ],
+        "en": "Kochiya Sanae"
+    },
+    {
+        "type": "Character",
+        "jp": "高麗野あうん",
+        "jp_alt": [
+            "こまのあうん"
+        ],
+        "en": "Komano Aunn"
+    },
+    {
+        "type": "Character",
+        "jp": "古明地こいし",
+        "jp_alt": [
+            "こめいじこいし"
+        ],
+        "en": "Komeiji Koishi"
+    },
+    {
+        "type": "Character",
+        "jp": "古明地さとり",
+        "jp_alt": [
+            "こめいじさとり"
+        ],
+        "en": "Komeiji Satori"
+    },
+    {
+        "type": "Character",
+        "jp": "魂魄妖夢",
+        "jp_alt": [
+            "こんぱくようむ"
+        ],
+        "en": "Konpaku Youmu"
+    },
+    {
+        "type": "Character",
+        "jp": "雲居一輪",
+        "jp_alt": [
+            "くもいいちりん"
+        ],
+        "en": "Kumoi Ichirin"
+    },
+    {
+        "type": "Character",
+        "jp": "黒谷ヤマメ",
+        "jp_alt": [
+            "くろだにやめめ"
+        ],
+        "en": "Kurodani Yamame"
+    },
+    {
+        "type": "Character",
+        "jp": "驪駒早鬼",
+        "jp_alt": [
+            "くろこまさき"
+        ],
+        "en": "Kurokoma Saki"
+    },
+    {
+        "type": "Character",
+        "jp": "レティ・ホワイトロック",
+        "jp_alt": [],
+        "en": "Letty Whiterock"
+    },
+    {
+        "type": "Character",
+        "jp": "リリーホワイト",
+        "jp_alt": [],
+        "en": "Lily White"
+    },
+    {
+        "type": "Character",
+        "jp": "ルナサ・プリズムリバー",
+        "jp_alt": [],
+        "en": "Lunasa Prismriver"
+    },
+    {
+        "type": "Character",
+        "jp": "リリカ・プリズムリバー",
+        "jp_alt": [],
+        "en": "Lyrica Prismriver"
+    },
+    {
+        "type": "Character",
+        "jp": "マエリベリー・ハーン",
+        "jp_alt": [
+            "メリー"
+        ],
+        "en": "Maribel Hearn"
+    },
+    {
+        "type": "Character",
+        "jp": "摩多羅隠岐奈",
+        "jp_alt": [
+            "またらおきな"
+        ],
+        "en": "Matara Okina"
+    },
+    {
+        "type": "Character",
+        "jp": "メディスン・メランコリー",
+        "jp_alt": [],
+        "en": "Medicine Melancholy"
+    },
+    {
+        "type": "Character",
+        "jp": "メルラン・プリズムリバー",
+        "jp_alt": [],
+        "en": "Merlin Prismriver"
+    },
+    {
+        "type": "Character",
+        "jp": "魅魔",
+        "jp_alt": [
+            "みま"
+        ],
+        "en": "Mima"
+    },
+    {
+        "type": "Character",
+        "jp": "水橋パルスィ",
+        "jp_alt": [
+            "みずはしパルスィ"
+        ],
+        "en": "Mizuhashi Parsee"
+    },
+    {
+        "type": "Character",
+        "jp": "物部布都",
+        "jp_alt": [
+            "もののべのふと"
+        ],
+        "en": "Mononobe no Futo"
+    },
+    {
+        "type": "Character",
+        "jp": "森近霖之助",
+        "jp_alt": [
+            "もりちかりんのすけ"
+        ],
+        "en": "Morichika Rinnosuke"
+    },
+    {
+        "type": "Character",
+        "jp": "洩矢諏訪子",
+        "jp_alt": [
+            "もりやすわこ"
+        ],
+        "en": "Moriya Suwako"
+    },
+    {
+        "type": "Character",
+        "jp": "村紗水蜜",
+        "jp_alt": [
+            "むらさみなみつ"
+        ],
+        "en": "Murasa Minamitsu"
+    },
+    {
+        "type": "Character",
+        "jp": "ミスティア・ローレライ",
+        "jp_alt": [
+            "ミスチー",
+            "みすちー"
+        ],
+        "en": "Mystia Lorelei"
+    },
+    {
+        "type": "Character",
+        "jp": "永江衣玖",
+        "jp_alt": [
+            "ながえいく"
+        ],
+        "en": "Nagae Iku"
+    },
+    {
+        "type": "Character",
+        "jp": "ナズーリン",
+        "jp_alt": [],
+        "en": "Nazrin"
+    },
+    {
+        "type": "Character",
+        "jp": "爾子田里乃",
+        "jp_alt": [
+            "にしださとの"
+        ],
+        "en": "Nishida Satono"
+    },
+    {
+        "type": "Character",
+        "jp": "庭渡久侘歌",
+        "jp_alt": [
+            "にわたりくたか"
+        ],
+        "en": "Niwatari Kutaka"
+    },
+    {
+        "type": "Character",
+        "jp": "奥野田美宵",
+        "jp_alt": [
+            "おくのだみよい"
+        ],
+        "en": "Okunoda Miyoi"
+    },
+    {
+        "type": "Character",
+        "jp": "小野塚小町",
+        "jp_alt": [
+            "おのづかこまち"
+        ],
+        "en": "Onozuka Komachi"
+    },
+    {
+        "type": "Character",
+        "jp": "パチュリー・ノーレッジ",
+        "jp_alt": [
+            "パチェ",
+            "むきゅー"
+        ],
+        "en": "Patchouli Knowledge"
+    },
+    {
+        "type": "Character",
+        "jp": "鈴仙・優曇華院・イナバ",
+        "jp_alt": [
+            "鈴仙・Ｕ・イナバ",
+            "れいせん・うどんげいん・イナバ",
+            "優曇華",
+            "うどんげ"
+        ],
+        "en": "Reisen Udongein Inaba"
+    },
+    {
+        "type": "Character",
+        "jp": "霊烏路空",
+        "jp_alt": [
+            "れいうじうつほ",
+            "お空"
+        ],
+        "en": "Reiuji Utsuho"
+    },
+    {
+        "type": "Character",
+        "jp": "レミリア・スカーレット",
+        "jp_alt": [
+            "レミィ"
+        ],
+        "en": "Remilia Scarlet"
+    },
+    {
+        "type": "Character",
+        "jp": "ルーミア",
+        "jp_alt": [],
+        "en": "Rumia"
+    },
+    {
+        "type": "Character",
+        "jp": "西行寺幽々子",
+        "jp_alt": [
+            "さいぎょうじゆゆこ"
+        ],
+        "en": "Saigyouji Yuyuko"
+    },
+    {
+        "type": "Character",
+        "jp": "坂田ネムノ",
+        "jp_alt": [
+            "さかたネムノ"
+        ],
+        "en": "Sakata Nemuno"
+    },
+    {
+        "type": "Character",
+        "jp": "赤蛮奇",
+        "jp_alt": [
+            "せきばんき"
+        ],
+        "en": "Sekibanki"
+    },
+    {
+        "type": "Character",
+        "jp": "射命丸文",
+        "jp_alt": [
+            "しゃめいまるあや"
+        ],
+        "en": "Shameimaru Aya"
+    },
+    {
+        "type": "Character",
+        "jp": "四季映姫・ヤマザナドゥ",
+        "jp_alt": [
+            "四季映姫",
+            "しきえいき"
+        ],
+        "en": "Shiki Eiki, Yamaxanadu"
+    },
+    {
+        "type": "Character",
+        "jp": "蘇我屠自古",
+        "jp_alt": [
+            "そがのとじこ"
+        ],
+        "en": "Soga no Tojiko"
+    },
+    {
+        "type": "Character",
+        "jp": "スターサファイア",
+        "jp_alt": [],
+        "en": "Star Sapphire"
+    },
+    {
+        "type": "Character",
+        "jp": "少名針妙丸",
+        "jp_alt": [
+            "すくなしんみょうまる"
+        ],
+        "en": "Sukuna Shinmyoumaru"
+    },
+    {
+        "type": "Character",
+        "jp": "多々良小傘",
+        "jp_alt": [
+            "たたらこがさ"
+        ],
+        "en": "Tatara Kogasa"
+    },
+    {
+        "type": "Character",
+        "jp": "丁礼田舞",
+        "jp_alt": [
+            "ていれいだまい"
+        ],
+        "en": "Teireida Mai"
+    },
+    {
+        "type": "Character",
+        "jp": "寅丸星",
+        "jp_alt": [
+            "とらまるしょう"
+        ],
+        "en": "Toramaru Shou"
+    },
+    {
+        "type": "Character",
+        "jp": "豊聡耳神子",
+        "jp_alt": [
+            "とよさとみみのみこ"
+        ],
+        "en": "Toyosatomimi no Miko"
+    },
+    {
+        "type": "Character",
+        "jp": "九十九八橋",
+        "jp_alt": [
+            "つくもやつはし"
+        ],
+        "en": "Tsukumo Yatsuhashi"
+    },
+    {
+        "type": "Character",
+        "jp": "雲山",
+        "jp_alt": [
+            "うんざん"
+        ],
+        "en": "Unzan"
+    },
+    {
+        "type": "Character",
+        "jp": "牛崎潤美",
+        "jp_alt": [
+            "うしざきうるみ"
+        ],
+        "en": "Ushizaki Urumi"
+    },
+    {
+        "type": "Character",
+        "jp": "宇佐見蓮子",
+        "jp_alt": [
+            "うさみれんこ"
+        ],
+        "en": "Usami Renko"
+    },
+    {
+        "type": "Character",
+        "jp": "宇佐見菫子",
+        "jp_alt": [
+            "うさみすみれこ"
+        ],
+        "en": "Usami Sumireko"
+    },
+    {
+        "type": "Character",
+        "jp": "わかさぎ姫",
+        "jp_alt": [
+            "わかさぎひめ"
+        ],
+        "en": "Wakasagihime"
+    },
+    {
+        "type": "Character",
+        "jp": "綿月豊姫",
+        "jp_alt": [
+            "わたつきのとよひめ"
+        ],
+        "en": "Watatsuki no Toyohime"
+    },
+    {
+        "type": "Character",
+        "jp": "綿月依姫",
+        "jp_alt": [
+            "わたつきのよりひめ"
+        ],
+        "en": "Watatsuki no Yorihime"
+    },
+    {
+        "type": "Character",
+        "jp": "リグル・ナイトバグ",
+        "jp_alt": [],
+        "en": "Wriggle Nightbug"
+    },
+    {
+        "type": "Character",
+        "jp": "八意永琳",
+        "jp_alt": [
+            "やごころえいりん"
+        ],
+        "en": "Yagokoro Eirin"
+    },
+    {
+        "type": "Character",
+        "jp": "八雲藍",
+        "jp_alt": [
+            "やくもらん"
+        ],
+        "en": "Yakumo Ran"
+    },
+    {
+        "type": "Character",
+        "jp": "八雲紫",
+        "jp_alt": [
+            "やくもゆかり"
+        ],
+        "en": "Yakumo Yukari"
+    },
+    {
+        "type": "Character",
+        "jp": "八坂神奈子",
+        "jp_alt": [
+            "やさかかなこ"
+        ],
+        "en": "Yasaka Kanako"
+    },
+    {
+        "type": "Character",
+        "jp": "矢田寺成美",
+        "jp_alt": [
+            "やたでらなるみ"
+        ],
+        "en": "Yatadera Narumi"
+    },
+    {
+        "type": "Character",
+        "jp": "依神女苑",
+        "jp_alt": [
+            "よりがみじょおん"
+        ],
+        "en": "Yorigami Joon"
+    },
+    {
+        "type": "Character",
+        "jp": "依神紫苑",
+        "jp_alt": [
+            "よりがみしおん"
+        ],
+        "en": "Yorigami Shion"
+    }
+]

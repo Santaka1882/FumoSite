@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Keyword",
+        "jp": "ふもふも",
+        "jp_alt": [
+            "ふも",
+            "フモフモ"
+        ],
+        "en": "Fumo"
+    },
+    {
+        "type": "Keyword",
+        "jp": "でかふも",
+        "jp_alt": [],
+        "en": "Deka Fumo"
+    },
+    {
+        "type": "Keyword",
+        "jp": "在庫切れ",
+        "jp_alt": [
+            "売り切れ",
+            "在庫なし"
+        ],
+        "en": "Out of Stock"
+    },
+    {
+        "type": "Keyword",
+        "jp": "ぬいぐるみ",
+        "jp_alt": [
+            "縫いぐるみ"
+        ],
+        "en": "Plush"
+    },
+    {
+        "type": "Keyword",
+        "jp": "東方",
+        "jp_alt": [
+            "とうほう",
+            "東方Project"
+        ],
+        "en": "Touhou"
+    },
+    {
+        "type": "Keyword",
+        "jp": "円",
+        "jp_alt": [
+            "えん",
+            "¥"
+        ],
+        "en": "Yen"
+    },
+    {
+        "type": "Keyword",
+        "jp": "即決価格",
+        "jp_alt": [],
+        "en": "Buyout Price"
+    }
+]
