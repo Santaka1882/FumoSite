@@ -5,7 +5,7 @@ import Layout from "../layouts/Layout";
 
 const proxiesAndFowarders = () => {
   return (
-    <Layout pageTitle="proxiesAndFowarders">
+    <Layout pageTitle="Proxies And Fowarders">
       <div>hi</div>
     </Layout>
   )

@@ -5,7 +5,7 @@ import Layout from "../layouts/Layout";
 
 const resellers = () => {
   return (
-    <Layout pageTitle="resellers">
+    <Layout pageTitle="Resellers">
       <div>hi</div>
     </Layout>
   )

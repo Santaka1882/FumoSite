@@ -6,7 +6,7 @@ import Phrases from '../components/Phrases';
 
 const helpfullPhrases = () => {
   return (
-    <Layout pageTitle="helpfullPhrases">
+    <Layout pageTitle="Helpfull Phrases">
       <Phrases />
     </Layout>
   )
