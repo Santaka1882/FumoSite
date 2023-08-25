@@ -174,7 +174,9 @@
     {
         "type": "Character",
         "jp": "星熊勇儀",
-        "jp_alt": "ほしぐまゆうぎ",
+        "jp_alt": [
+            "ほしぐまゆうぎ"
+        ],
         "en": "Hoshiguma Yuugi"
     },
     {
@@ -237,7 +239,9 @@
     {
         "type": "Character",
         "jp": "十六夜咲夜",
-        "jp_alt": "いざよいさくや",
+        "jp_alt": [
+            "いざよいさくや"
+        ],
         "en": "Izayoi Sakuya"
     },
     {
