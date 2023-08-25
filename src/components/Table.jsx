@@ -1,8 +1,6 @@
 import React from 'react'
 
 const Table = ({data, title, headers}) => {
-    console.log(data)
-
     return (
         <div className='my-4'>
             <h3 className='text-xl text-red-500 font-semibold'>{title}</h3>
