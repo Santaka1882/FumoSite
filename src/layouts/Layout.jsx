@@ -2,12 +2,12 @@ import React, { useState, useEffect } from "react";
 import { useStaticQuery, graphql } from "gatsby";
 
 // Components
-import Logo from "../components/Logo";
-import PrimaryNavItems from "../components/PrimaryNavItems";
-import ColorThemeSwitch from "../components/ColorThemeSwitch";
-import MobileMenuButton from "../components/MobileMenuButton";
-import MobileNavMenu from "../components/MobileNavMenu";
-import Footer from "../components/Footer";
+import Logo from "../components/layout/Logo";
+import PrimaryNavItems from "../components/layout/PrimaryNavItems";
+import ColorThemeSwitch from "../components/layout/ColorThemeSwitch";
+import MobileMenuButton from "../components/layout/MobileMenuButton";
+import MobileNavMenu from "../components/layout/MobileNavMenu";
+import Footer from "../components/layout/Footer";
 
 const KEY = "FumoSite.Darkmode";
 

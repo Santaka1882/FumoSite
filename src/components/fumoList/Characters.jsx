@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 import { useStaticQuery, graphql } from 'gatsby'
 import CharacterCardGrid from './CharacterCardGrid'
-import BackToTopButton from './BackToTopButton'
+import BackToTopButton from '../utils/BackToTopButton'
 
 const Characters = () => {
     const data = useStaticQuery(graphql`

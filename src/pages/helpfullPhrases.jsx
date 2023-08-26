@@ -2,7 +2,7 @@ import React from 'react'
 
 // Components
 import Layout from "../layouts/Layout";
-import Phrases from '../components/Phrases';
+import Phrases from '../components/helpfullPhrases/Phrases';
 
 const helpfullPhrases = () => {
   return (

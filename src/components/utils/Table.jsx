@@ -50,7 +50,12 @@ const Table = ({data, title, headers}) => {
                                         {
                                             item.node.jp_alt !== null ?
                                                 item.node.jp_alt.map(item => (
-                                                    <span className='block border-b-2 border-yellow-200'>{item}</span>
+                                                    <span 
+                                                        key={item} 
+                                                        className='block border-b-2 border-yellow-200'
+                                                    >
+                                                        {item}
+                                                    </span>
                                                 ))
                                             : null
                                         }
