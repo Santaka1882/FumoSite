@@ -40,14 +40,14 @@ const InfoSection = () => {
           </p>
         </div>
         <StaticImage
-          src="../images/Cirno.jpg"
+          src="../../images/Cirno.jpg"
           alt="Cirno-Fumo"
           className="hidden-i lg:block-i rounded-lg w-80"
         />
       </div>
       <div className="flex lg:mt-14 justify-around items-center" data-aos="fade-up">
         <StaticImage
-          src="../images/Flandre.jpg"
+          src="../../images/Flandre.jpg"
           alt="Flandre-Fumo"
           className="hidden-i lg:block-i rounded-lg max-w-xs 2xl:max-w-none w-80"
         />

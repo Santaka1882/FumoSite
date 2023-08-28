@@ -1,6 +1,7 @@
 import { graphql, useStaticQuery } from 'gatsby'
 import React from 'react'
 import Table from '../utils/Table'
+import BackToTopButton from '../utils/BackToTopButton'
 
 const Phrases = () => {
     const data = useStaticQuery(graphql`
@@ -87,7 +88,9 @@ const Phrases = () => {
                     ]}
                 />
             </div>
+            <BackToTopButton/>
         </section>
+        
     )
 }
 

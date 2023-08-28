@@ -14,7 +14,7 @@ const HeroImage = () => {
     <div className="flex flex-col items-center w-full py-20 my-4 bg-red-500" data-aos='fade-up'>
       <div className="flex flex-col items-center w-4/5 max-w-7xl mx-auto bg-red-500 md:flex-row-reverse justify-around lg:flex-row">
         <StaticImage
-          src="../images/HeroImage.jpg"
+          src="../../images/HeroImage.jpg"
           alt="Reimu fumo"
           className="w-60 rounded-full md:rounded-lg 2xl:w-80"
         />
