@@ -1,6 +1,7 @@
 import React from 'react'
 
 import ProsConsTable from './ProsConsTable'
+import Paragraph from '../utils/Paragraph'
 
 const Proxies = () => {
     return (
@@ -9,15 +10,15 @@ const Proxies = () => {
                 <h2 className='text-3xl text-red-500 font-semibold'>Proxies And Forwarders</h2>
 
                 <section>
-                    <p>
+                    <Paragraph>
                         Many Japanese companies (including Gift and various resellers and storefronts) 
                         don't want to deal with shipping outside of Japan, for various reasons. 
                         However, people outside of Japan can still order from them through the use of a proxy 
                         or a forwarder. Keep in mind that, depending on your country, you may have to pay import 
                         taxes, customs, or other fees.
-                    </p>
+                    </Paragraph>
 
-                    <p>
+                    <Paragraph>
                         A forwarder provides a package forwarding service. They will provide you a Japanese 
                         address (similar to a P.O. box in the United States) for you to have goods shipped to,
                         and will forward any packages that arrive at that address to your real, overseas address. 
@@ -25,15 +26,15 @@ const Proxies = () => {
                         and customs costs. Note: to comply with Japanese anti-gang laws, forwarders will require you
                         to demonstrate proof of address and identity before actually forwarding your package. 
                         Typically, this is a photo of your ID and a bill with your name and address.
-                    </p>
+                    </Paragraph>
 
-                    <p>
+                    <Paragraph>
                         A proxy is similar to a forwarder, except that they will place the online order for you.
                         Typically, you provide a link to the item you want to buy and a brief description of the item,
                         and then the proxy provides status updates as the order/delivery process proceeds. 
                         Many proxies require a deposit. Some storefronts refuse to do business with proxy services, 
                         although Gift is not known to turn away proxies.
-                    </p>
+                    </Paragraph>
                 </section>
                 <section className='grid grid-cols-1 md:grid-cols-2 gap-5'>
                     <ProsConsTable 
