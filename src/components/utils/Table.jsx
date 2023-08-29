@@ -26,7 +26,7 @@ const Table = ({data, title, headers}) => {
                             const data = item.node
                             const values = Object.values(data)
                             return (
-                                <tr>
+                                <tr key={values[0]}>
                                     {
                                         values.map(value => (
                                             value !== null ?
