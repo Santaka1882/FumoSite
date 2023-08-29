@@ -2,11 +2,11 @@ import React from 'react'
 
 // Components
 import Layout from "../layouts/Layout";
-import Phrases from '../components/helpfullPhrases/Phrases';
+import Phrases from '../components/helpfulPhrases/Phrases';
 
 const helpfullPhrases = () => {
   return (
-    <Layout pageTitle="Helpfull Phrases">
+    <Layout pageTitle="Helpful Phrases">
       <Phrases />
     </Layout>
   )
