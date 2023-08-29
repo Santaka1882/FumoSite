@@ -9,27 +9,27 @@ const Phrases = () => {
             allFormElementsJson {
                 edges {
                     node {
+                        en
                         jp
                         jp_alt
-                        en
                     }
                 }
             }
             allKeywordsJson {
                 edges {
                     node {
+                        en
                         jp
                         jp_alt
-                        en
                     }
                 }
             }
             allNamesJson {
                 edges {
                     node {
+                        en
                         jp
                         jp_alt
-                        en
                     }
                 }
             }
@@ -43,7 +43,7 @@ const Phrases = () => {
     return (
         <section className='w-full'>
             <div className='w-[90%] mx-auto mt-5 text-center'>
-                <h2 className='text-3xl text-red-500 font-semibold'>Helpfull Phrases</h2>
+                <h2 className='text-3xl text-red-500 font-semibold'>Helpful Phrases</h2>
 
                 <Table 
                     data={keywords} 

@@ -22,47 +22,41 @@ const Table = ({data, title, headers}) => {
                 </thead>
                 <tbody>
                     {
-                        data.map(item => (
-                            <tr key={item.node.en}>
-                                <td 
-                                    key={item.node.en} 
-                                    className='border-2 border-red-500'
-                                >
-                                    <p className='m-2'>
-                                        {item.node.en}
-                                    </p>
-                                    
-                                </td>
-                                <td 
-                                    key={item.node.jp} 
-                                    className='border-2 border-red-500'
-                                >
-                                    <p className='m-2'>
-                                        {item.node.jp}
-                                    </p>
-                                    
-                                </td>
-                                <td 
-                                    key={item.node.jp_alt} 
-                                    className='border-2 border-red-500'
-                                >
-                                    <p className='m-2'>
-                                        {
-                                            item.node.jp_alt !== null ?
-                                                item.node.jp_alt.map(item => (
-                                                    <span 
-                                                        key={item} 
-                                                        className='block border-b-2 border-yellow-200'
-                                                    >
-                                                        {item}
-                                                    </span>
-                                                ))
+                        data.map(item => {
+                            const data = item.node
+                            const values = Object.values(data)
+                            return (
+                                <tr>
+                                    {
+                                        values.map(value => (
+                                            value !== null ?
+                                                <td 
+                                                    key={value} 
+                                                    className='border-2 border-red-500'
+                                                >
+                                                    <p className='m-2'>
+                                                        {
+                                                            typeof value === "string" ?
+                                                                <span>{value}</span>
+                                                            :
+                                                                value.map(item => (
+                                                                    <span 
+                                                                        key={item} 
+                                                                        className='block border-b-2 border-yellow-200'
+                                                                    >
+                                                                        {item}
+                                                                    </span>
+                                                                ))
+                                                        }
+                                                    </p>
+                                                    
+                                                </td>
                                             : null
-                                        }
-                                    </p>
-                                </td>
-                            </tr>
-                        ))
+                                        ))
+                                    }        
+                                </tr>
+                            )
+                        })
                     }
                 </tbody>
             </table>
