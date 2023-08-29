@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Big in Japan",
+        "link": "https://www.biginjap.com/",
+        "per_order": "￥500 + 15%",
+        "other_fees": "",
+        "consolidation": "Not offered",
+        "sniper_bids": "Not offered",
+        "notes": "Sends invoices via PayPal"
+    },
+    {
+        "name": "Buyee",
+        "link": "https://buyee.jp/",
+        "per_order": "￥300; Optional ￥0-500 for insurance/inspection",
+        "other_fees": "￥200 per successful bid on Yahoo Auctions",
+        "consolidation": "￥500 for two packages or ￥1000 for 3 or more",
+        "sniper_bids": "5 minutes",
+        "notes": ""
+    },
+    {
+        "name": "From Japan",
+        "link": "https://www.fromjapan.co.jp/en/",
+        "per_order": "￥300, or ￥700 if you want insurance",
+        "other_fees": "￥200 per successful bid on Yahoo Auctions",
+        "consolidation": "Free",
+        "sniper_bids": "10 minutes",
+        "notes": ""
+    },
+    {
+        "name": "J-Subculture",
+        "link": "https://www.j-subculture.com/",
+        "per_order": "￥500, or ￥850 if you want insurance",
+        "other_fees": "￥50 per item won at auction",
+        "consolidation": "Free for up to 5 items",
+        "sniper_bids": "15 minutes",
+        "notes": ""
+    },
+    {
+        "name": "Japamart",
+        "link": "https://japamart.com/",
+        "per_order": "5% + $2 + a commission based on total price, about $10 for a single Fumo",
+        "other_fees": "Some shenanigans if multiple Japamart users bid on the same item",
+        "consolidation": "Apparently free",
+        "sniper_bids": "Not specified, but near auction close",
+        "notes": "Only accepts PayPal"
+    },
+    {
+        "name": "Jauce",
+        "link": "https://www.jauce.com/",
+        "per_order": "1300￥ + 8% for non-auction; 700￥ + 8% for auctions",
+        "other_fees": "",
+        "consolidation": "￥300 per package + ￥120/kg",
+        "sniper_bids": "6 minutes",
+        "notes": ""
+    },
+    {
+        "name": "JPN-DEPOT",
+        "link": "https://www.jpn-depot.com/",
+        "per_order": "￥400",
+        "other_fees": "￥200 per auction on Yahoo Auctions",
+        "consolidation": "￥100 per package",
+        "sniper_bids": "Not offered",
+        "notes": ""
+    },
+    {
+        "name": "Kuboten",
+        "link": "https://www.kuboten.com/",
+        "per_order": "￥1000 + 10%",
+        "other_fees": "3.9% money transfer fee",
+        "consolidation": "Apparently free",
+        "sniper_bids": "Not offered",
+        "notes": "Suggests placing orders 12 hours before auctions close"
+    },
+    {
+        "name": "Noppin",
+        "link": "https://noppin.com/",
+        "per_order": "Non-auction: ￥1000 + 10%; 12.5% (minimum ￥500) for auctions",
+        "other_fees": "Additional charges based on size and weight; 3.5% money transfer fee",
+        "consolidation": "Free",
+        "sniper_bids": "Not offered",
+        "notes": "Packing takes about 3 business days"
+    },
+    {
+        "name": "Proxy Rabbit Japan",
+        "link": "https://www.proxyrabbitjapan.com/",
+        "per_order": "￥400 + 5%",
+        "other_fees": "3.6% money transfer fee",
+        "consolidation": "Free for up to 5 items",
+        "sniper_bids": "Not offered",
+        "notes": "Temporarily closed due to COVID"
+    },
+    {
+        "name": "Sendico",
+        "link": "https://www.sendico.com/",
+        "per_order": "￥500",
+        "other_fees": "",
+        "consolidation": "￥500 per item",
+        "sniper_bids": "Not offered",
+        "notes": ""
+    },
+    {
+        "name": "Treasure Japan",
+        "link": "https://treasure-japan.com/",
+        "per_order": "Rates vary by price range and weight; minimum ￥700.",
+        "other_fees": "4% money transfer fee",
+        "consolidation": "Not offered",
+        "sniper_bids": "Not offered",
+        "notes": "Estimated total fee for a single Fumo is around 10%"
+    },
+    {
+        "name": "White Rabbit Express",
+        "link": "https://www.whiterabbitexpress.com/",
+        "per_order": "$5 + 9.9%",
+        "other_fees": "",
+        "consolidation": "Free",
+        "sniper_bids": "Not offered",
+        "notes": "Partnered with Blackship."
+    },
+    {
+        "name": "Zenmarket",
+        "link": "https://zenmarket.jp/en/",
+        "per_order": "￥300",
+        "other_fees": "3.5% money transfer fee",
+        "consolidation": "Free",
+        "sniper_bids": "5 minutes",
+        "notes": ""
+    }
+]

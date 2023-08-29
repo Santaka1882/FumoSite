@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Big in Japan",
+        "link": "https://www.biginjap.com/",
+        "per_package": "￥500",
+        "consolidation": "￥1500 for any number of packages",
+        "notes": ""
+    },
+    {
+        "name": "Blackship",
+        "link": "https://blackship.com/",
+        "per_package": "$1",
+        "consolidation": "$3 per package",
+        "notes": "There is an optional monthly subscription service and many optional features"
+    },
+    {
+        "name": "Japamart",
+        "link": "https://japamart.com/",
+        "per_package": "5% + a commission based on total price - about $6 for a single Fumo",
+        "consolidation": "Apparently free",
+        "notes": "Does not accept forwards from auction sites; only accepts PayPal"
+    },
+    {
+        "name": "JPN-DEPOT",
+        "link": "https://www.jpn-depot.com/",
+        "per_package": "￥200",
+        "consolidation": "￥100 per package",
+        "notes": ""
+    },
+    {
+        "name": "Tenso",
+        "link": "https://www.tenso.com/en/",
+        "per_package": "Based on weight - about ￥150 for a single Fumo",
+        "consolidation": "￥200 + ￥300 per package beyond the first",
+        "notes": "Partnered with Buyee"
+    }
+]
