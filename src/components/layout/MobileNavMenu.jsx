@@ -22,10 +22,10 @@ const MobileNavMenu = ({ show }) => (
       </li>
       <li>
         <Link
-          to="/helpfullPhrases"
+          to="/helpfulPhrases"
           className="block text-sm px-2 py-2 text-red-500 font-semibold border-b-2 border-red-500"
         >
-          Helpfull Phrases
+          Helpful Phrases
         </Link>
       </li>
       <li>

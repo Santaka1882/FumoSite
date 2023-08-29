@@ -16,10 +16,10 @@ const PrimaryNavItems = () => (
       Fumo list
     </Link>
     <Link
-      to="/helpfullPhrases"
+      to="/helpfulPhrases"
       className="py-4 px-2 text-gray-500 border-b-4 hover:border-red-500 transition duration-300 hover:text-red-500 2xl:text-xl"
     >
-      Helpfull Phrases
+      Helpful Phrases
     </Link>
     <Link
       to="/proxiesAndFowarders"
