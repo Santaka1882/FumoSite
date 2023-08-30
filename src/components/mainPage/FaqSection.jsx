@@ -2,7 +2,7 @@ import React, {useEffect} from "react";
 import { Link } from "gatsby";
 
 // Components
-import FaqItem from "./FaqItem";
+import Dropdownitem from "../utils/DropdownItem";
 
 // Animations
 import Aos from "aos";
@@ -18,20 +18,20 @@ const FaqSection = () => {
       <div className="w-4/5 m-auto 2xl:m-0">
         <h3 className="text-red-500 font-semibold text-2xl mb-2 mt-6 md:text-3xl 2xl:text-5xl 2xl:mb-6">FAQ:</h3>
         <div>
-          <FaqItem question="What does 'Fumo' mean?">
+          <Dropdownitem title="What does 'Fumo' mean?">
             <p className='pl-4'>
               The word "Fumo" comes from the Japanese onomatopoeia "モフモフ"
               (mofumofu), which means "soft to the touch", or "fluffy".
             </p>
-          </FaqItem>
-          <FaqItem question="Which characters have Fumos?">
+          </Dropdownitem>
+          <Dropdownitem title="Which characters have Fumos?">
             <p className='pl-4'>
               Check out the colection <Link to="/fumos">Here</Link>. You can
               also look through the entire Gift catalog{" "}
               <a href="https://www.gift-gift.jp/nui/" className="text-red-500">here</a>.
             </p>
-          </FaqItem>
-          <FaqItem question="What are the varieties of Fumo?">
+          </Dropdownitem>
+          <Dropdownitem title="What are the varieties of Fumo?">
             <ul className='pl-10 list-disc marker:text-red-500'>
               <li>
                 Normal: a normal fumo. Typically about 20cm tall sitting.
@@ -44,22 +44,22 @@ const FaqSection = () => {
               </li>
               <li>Puppet: a hand puppet, about 40cm tall.</li>
             </ul>
-          </FaqItem>
-          <FaqItem question="I've seen Fumos that aren't listed!">
+          </Dropdownitem>
+          <Dropdownitem title="I've seen Fumos that aren't listed!">
             <p className='pl-4'>
               That was most likely a custom fumo! There are quite a few people
               out there who make custom fumos themselves.
             </p>
-          </FaqItem>
-          <FaqItem question="How do i get a Fumo?">
+          </Dropdownitem>
+          <Dropdownitem title="How do i get a Fumo?">
             <p className='pl-4'>
               You have two main options: find a trustworthy reseller at a
               reasonable price, or order one from Gift directly using a Proxy or
               Forwarding Service. You may need to use both, depending on the
               reseller.
             </p>
-          </FaqItem>
-          <FaqItem question="What do i need in order to get a fumo?">
+          </Dropdownitem>
+          <Dropdownitem title="What do i need in order to get a fumo?">
             <p className='pl-4'>The same things you need for any other online shopping:</p> 
             <ul className='pl-10 list-disc marker:text-red-500'>
               <li>
@@ -73,8 +73,8 @@ const FaqSection = () => {
               </li>
               <li>Time - Shipping from overseas can take a long time.</li>
             </ul>
-          </FaqItem>
-          <FaqItem question="How good are bootleg Fumos?">
+          </Dropdownitem>
+          <Dropdownitem title="How good are bootleg Fumos?">
             <p className='pl-4'>
               Bootleg fumos, mimicking the Fumo style and passed off as being
               authentic, are often cheaper than real ones. However, Some have
@@ -83,8 +83,8 @@ const FaqSection = () => {
               you're taking a risk. For information on avoiding bootlegs, see
               the reseller guide.
             </p>
-          </FaqItem>
-          <FaqItem question="Where can i find, meer, and/or discuss fumo with others?">
+          </Dropdownitem>
+          <Dropdownitem title="Where can i find, meer, and/or discuss fumo with others?">
             <p className='pl-4'>
               There are plenty of online communities for discussing and sharing
               our soft friends. /jp/ on 4chan regularly has fumo related
@@ -92,10 +92,10 @@ const FaqSection = () => {
               and there are several fumo-related Discord communities like <a href="https://discord.gg/TyF7VKSwGZ." className='text-red-500'>Fumo
               Project</a>.  
             </p>
-          </FaqItem>
-          <FaqItem question="Fumo?">
+          </Dropdownitem>
+          <Dropdownitem title="Fumo?">
             <p className='pl-4'>Fumo.</p>
-          </FaqItem>
+          </Dropdownitem>
         </div>
       </div>
     </div>

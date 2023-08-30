@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Yahoo Auctions JP",
+        "link": "https://auctions.yahoo.co.jp/",
+        "desc": [
+            "Basically Japanese eBay. Every proxy can interact with it.",
+            "Always has Fumos listed, and mostly at reasonable prices.",
+            "Just like eBay, you can be sniped or outbid.",
+            "Some sellers have blacklisted some proxies."
+        ]
+    },
+    {
+        "name": "Mercari",
+        "link": "https://www.mercari.com/jp/",
+        "desc": [
+            "No auctions, just direct sales.",
+            "Often has individual and group batches of fumos.",
+            "Proxies can be too slow for some of the quicker deals."
+        ]
+    },
+    {
+        "name": "Rakuten",
+        "link": "https://search.rakuten.co.jp/",
+        "desc": [
+            "A storefront for both corporations and individual sellers.",
+            "When searching, use 東方ぬいぐるみ (Touhou Plush) not 東方ふもふも (Touhou Fumo).",
+            "Prices might be fair for newer Fumos, but are <i>very</i> expensive for older ones."
+        ]
+    }
+]

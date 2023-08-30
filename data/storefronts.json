@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Gift Online Shop",
+        "link": "https://www.gift-gift.jp/",
+        "desc": [
+            "The source of all Fumos. Prices are always cheapest here.",
+            "The most popular Fumos tend to sell out in an hour or less.",
+            "Proxies are often too slow, or sometimes reach order limits.",
+            "Since August 2021, Gift has preferred AmiAmi over its own storefront for fumo releases."
+        ]
+    },
+    {
+        "name": "Amiami",
+        "link": "https://www.amiami.com/eng/",
+        "desc": [
+            "Since August 2021, Gift has been officially releasing fumos on AmiAmi.",
+            "Offers shipping through DHL, EMS, and surface mail to most international locations.",
+            "AmiAmi's site tends to experience reliability issues when traffic is high (i.e., around starting time of fumo sales).",
+            "There is a separate Japanese storefront that only ships to addresses inside Japan.",
+            "Warning: The Japanese storefront has been rumored to reject orders that would ship to known forwarders."
+        ]
+    },
+    {
+        "name": "Suruga-ya",
+        "link": "https://www.suruga-ya.jp/",
+        "desc": [
+            "Second-hand retailer of lots of hobby goods.",
+            "Will nearly always have Fumos in stock.",
+            "Prices vary wildly but tend to be more expensive than Gift's.",
+            "Also has an English storefront."
+        ]
+    },
+    {
+        "name": "Mandarake",
+        "link": "https://order.mandarake.co.jp/order/",
+        "desc": [
+            "Sells preowned hobby goods.",
+            "Fumos here tend to sell very quickly.",
+            "This is a digital storefront for physical stores, so staff has to confirm that nobody has bought your item before you can pay."
+        ]
+    },
+    {
+        "name": "Amazon Japan",
+        "link": "https://www.amazon.co.jp/",
+        "desc": [
+            "It's Amazon but in Japanese.",
+            "Fumos are rarely listed here and are usually very expensive."
+        ]
+    },
+    {
+        "name": "SolarisJapan",
+        "link": "https://solarisjapan.com/",
+        "desc": [
+            "English storefront for Japanese figures and merchandise.",
+            "Prices are very high."
+        ]
+    },
+    {
+        "name": "Goods Republic",
+        "link": "https://goodsrepublic.com/",
+        "desc": [
+            "English storefront for Japanese figures and merchandise.",
+            "Prices are very high.",
+            "Although the site is in English, searches still need to be in Japanese."
+        ]
+    },
+    {
+        "name": "JPFigures",
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "desc": [
+            "Literally a scam. Do not purchase anything from them.",
+            "They have a nice looking webpage. Don't be fooled.",
+            "The link is a rickroll."
+        ]
+    }
+]
