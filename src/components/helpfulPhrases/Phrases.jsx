@@ -5,7 +5,7 @@ import BackToTopButton from '../utils/BackToTopButton'
 
 const Phrases = () => {
     const data = useStaticQuery(graphql`
-        query MyQuery {
+        query tableContent {
             allFormElementsJson {
                 edges {
                     node {
