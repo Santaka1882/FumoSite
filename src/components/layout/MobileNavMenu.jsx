@@ -44,14 +44,14 @@ const MobileNavMenu = ({ show }) => (
           Resellers
         </Link>
       </li>
-      <li>
+      {/* <li>
         <Link
           to="/about"
           className="block text-sm px-2 py-2 text-red-500 font-semibold border-b-2 border-red-500"
         >
           About
         </Link>
-      </li>
+      </li> */}
     </ul>
   </div>
 );

@@ -33,12 +33,12 @@ const PrimaryNavItems = () => (
     >
       Resellers
     </Link>
-    <Link
+    {/* <Link
       to="/about"
       className="py-4 px-2 text-gray-500 border-b-4 hover:border-red-500 transition duration-300 hover:text-red-500 2xl:text-xl"
     >
       About
-    </Link>
+    </Link> */}
     
   </div>
 );
